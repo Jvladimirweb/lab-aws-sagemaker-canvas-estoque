@@ -21,7 +21,7 @@ Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com Sag
 - Após cirar a conta fui no repositorio da DIO o qual fiz um Fork, baixei o dataset modelo sugerido pela DIO, lancei no sageMaker canvas, pude perceber que apesar de "simples" ele faz sentido para quem conhece um puco e quer trabalhar na area de dados. As metricas, graficos e predições do SageMaker são fantásticas e a forma com que a ia trata os dados inseridos e os colocar mostrando presente e apontando o futuro é simplesmente lindo e fantástico.
 
 - Disponho a baixo alguns prints que fui tirando no caminho da execução de meu trabalho.
-- 
+
 ![01](https://github.com/user-attachments/assets/e28b4c3e-b9d2-4551-ae5d-c300ff05ddac)
 ![002](https://github.com/user-attachments/assets/dd89a583-9224-4a5e-94a7-4f3572981dc4)
 ![003](https://github.com/user-attachments/assets/5a039626-bc0f-4e71-aad9-53cd24c58489)
