@@ -1,47 +1,64 @@
+# <table>
+  <td width=20% align=center><img src="https://github.com/Jvladimirweb/Repo-Local/blob/main/eu.jpg" width="50%"/></td>
+  <td> <h3>José Vladimir Bezerra Batista</h3></td>
+</table>
+
+Analista de Suporte Senior.
+
+
+
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
 
-## 📋 Pré-requisitos
-
-Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda para criar sua conta, confira nosso repositório [AWS Cloud Quickstart](https://github.com/digitalinnovationone/aws-cloud-quickstart).
+## 📋 Criada a conta da AWS sem problemas
 
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
 
-![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
+- Foi indescritiva a satisfação em participar deste desafio!
 
-- Dê um fork neste projeto e reescreva este `README.md`. Sinta-se à vontade para detalhar todo o processo de criação do seu Modelo de ML para uma "Previsão de Estoque Inteligente".
-- Para isso, siga o [passo a passo] descrito a seguir e evolua as suas habilidades em ML no-code com o Amazon SageMaker Canvas.
-- Ao concluir, envie a URL do seu repositório com a solução na plataforma da DIO.
+- Após cirar a conta fui no repositorio da DIO o qual fiz um Fork, baixei o dataset modelo sugerido pela DIO, lancei no sageMaker canvas, pude perceber que apesar de "simples" ele faz sentido para quem conhece um puco e quer trabalhar na area de dados. As metricas, graficos e predições do SageMaker são fantásticas e a forma com que a ia trata os dados inseridos e os colocar mostrando presente e apontando o futuro é simplesmente lindo e fantástico.
+
+- Disponho a baixo alguns prints que fui tirando no caminho da execução de meu trabalho.
+- 
+![01](https://github.com/user-attachments/assets/e28b4c3e-b9d2-4551-ae5d-c300ff05ddac)
+![002](https://github.com/user-attachments/assets/dd89a583-9224-4a5e-94a7-4f3572981dc4)
+![003](https://github.com/user-attachments/assets/5a039626-bc0f-4e71-aad9-53cd24c58489)
+![004](https://github.com/user-attachments/assets/4ccd37d3-8a52-485f-b01c-e25fc24d124b)
 
 
-## 🚀 Passo a Passo
+### Venha me conhecer melhor:
 
-### 1. Selecionar Dataset
+[![Perfil DIO](https://img.shields.io/badge/-Eu%20na%20DIO-E94D5G?style=for-the-badge)](https://www.dio.me/users/jvladimirweb)
+[![LinkedIn](https://img.shields.io/badge/-Meu%20LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5G)](https://www.linkedin.com/in/jose-vladimir-bezerra-batista/)
+[![Meu E-mail](https://img.shields.io/badge/-Meu%20Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5G)](jvladimirweb@gmail.com)
 
--   Navegue até a pasta `datasets` deste repositório. Esta pasta contém os datasets que você poderá escolher para treinar e testar seu modelo de ML. Sinta-se à vontade para gerar/enriquecer seus próprios datasets, quanto mais você se engajar, mais relevante esse projeto será em seu portfólio.
--   Escolha o dataset que você usará para treinar seu modelo de previsão de estoque.
--   Faça o upload do dataset no SageMaker Canvas.
 
-### 2. Construir/Treinar
+### Habilidades:
 
--   No SageMaker Canvas, importe o dataset que você selecionou.
--   Configure as variáveis de entrada e saída de acordo com os dados.
--   Inicie o treinamento do modelo. Isso pode levar algum tempo, dependendo do tamanho do dataset.
+Encontro-me em processo de obtenção de habilidades na área de Dev. 
 
-### 3. Analisar
+### Estudos:
 
--   Após o treinamento, examine as métricas de performance do modelo.
--   Verifique as principais características que influenciam as previsões.
--   Faça ajustes no modelo se necessário e re-treine até obter um desempenho satisfatório.
+   Cursando Analise de sistemas e desnvolvimento de softwares:
+   Faculdade Anhanguera 3º Periodo.
 
-### 4. Prever
+   Bootcamp Santander 2024 - Fundamentos de IA para Devs
 
--   Use o modelo treinado para fazer previsões de estoque.
--   Exporte os resultados e analise as previsões geradas.
--   Documente suas conclusões e qualquer insight obtido a partir das previsões.
+    #EuSouDioCampusExpert
 
-## 🤔 Dúvidas?
 
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+### Planos futuros
+
+Estar bem colocado em uma empresa de desenvolvimento podendo aprender e por em prática cadas mais oque aprendi. Realizar meu sonho de atuar nesta area a qual passei a amar e admirar!
+
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvladimirweb&theme=transparent&bg_color=000&border_color=33FF00&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jvladimir&layout=compact&bg_color=000&border_color=33FF00&title_color=E94D5F&text_color=FFF)
+
+
+
